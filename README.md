@@ -4,7 +4,7 @@
 
 - 💻 I'm a Back-end Developer
 - :blue_heart: coding is my passion
-- :boy: Mom of the little Leonardo
+- :boy: Leonardo
 
 <div align="center">
   <a href="https://github.com/mgerolin">
