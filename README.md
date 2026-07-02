@@ -23,6 +23,8 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marianagerolinpolis/" target="_blank">
