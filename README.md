@@ -2,7 +2,6 @@
 
 **Welcome to my GitHub profile!** 😊
 
-- 🚀 Transitioning to Quality Assurance (QA)
 - 🎭 Test Automation with **Playwright** & **TypeScript**
 - 🗄️ Experience with **Oracle**, **MySQL** and **PostgreSQL**
 - 📚 Passionate about software quality and continuous learning
