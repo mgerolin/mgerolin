@@ -16,23 +16,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/mgerolin">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mgerolin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/mgerolin">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgerolin&layout=compact&langs_count=8&theme=dracula"/>
-</a>
-
-</div>
-
----
-
+--
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marianagerolinpolis/" target="_blank">
